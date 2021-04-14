@@ -20,3 +20,8 @@ Cats
 1. res = [[] for _ in player_indices], to create 2 dimension list
 2. try to use abstraction as much as possible
 3. READ the text CAREFULLY
+
+
+Homework4
+very interest recursion
+and math problem!
