@@ -34,3 +34,6 @@ Some useful OOP diagram
 
 Homework5
 OOP and generator( easy when we write recursive function first)
+
+Lab07
+HELP function defined in a function may be helpful to deliver arguments
