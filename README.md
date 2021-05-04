@@ -37,3 +37,7 @@ OOP and generator( easy when we write recursive function first)
 
 Lab07
 HELP function defined in a function may be helpful to deliver arguments
+
+Lab08
+1. The mutation of a data structure and assignment is different
+2. Recusive funtion is still need to improve
